@@ -4,7 +4,7 @@
 
 ## About Me 
 Hey, I'm Johny. 
-As an Information Systems graduate, I recently gained a strong passion for software engineering and creating visually appealing designs. I primarily work with React and TypeScript within Next.js. Feel free to reach out to me regarding questions, feedback, criticism or quite literally *anything* else.
+As an Information Systems graduate, I recently gained a strong passion for software engineering and creating visually appealing designs. Feel free to reach out to me regarding questions, feedback, criticism or quite literally *anything* else.
 
 ## My Tech Stack
 <a href="https://reactjs.org/">
