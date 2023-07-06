@@ -3,7 +3,8 @@
 🤝🏻 <a href="https://www.linkedin.com/in/johny-ha-63a596189/">LinkedIn profile</a>
 
 ## About Me 
-Hey, I'm Johny.
+Hey, I'm Johny. 
+As an Information Systems graduate, I recently gained a strong passion for software engineering and creating visually appealing designs. I primarily work with React and TypeScript within Next.js. Feel free to follow me or reach out to me regarding questions, feedback, criticism or quite literally *anything* else.
 
 ## My Tech Stack
 <a href="https://reactjs.org/">
@@ -24,6 +25,17 @@ Hey, I'm Johny.
 <a href="https://www.npmjs.com/">
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 </a>
+<a href="https://www.framer.com/motion/">
+  <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" />
+</a>
 <a href="https://www.sqlite.org/index.html">
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+</a>
+
+## Getting in touch
+<a href="https://mail.google.com/mail/u/0/?fs=1&to=yonniedooo@gmail.com&su=&body=&tf=cm">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/johny-ha-63a596189/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
