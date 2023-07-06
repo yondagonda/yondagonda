@@ -3,10 +3,13 @@
 🤝🏻 <a href="https://www.linkedin.com/in/johny-ha-63a596189/">LinkedIn profile</a>
 
 ## About Me 
-Hey, I'm Johny. 
-As an Information Systems graduate, I recently gained a strong passion for software engineering and creating visually appealing designs. Feel free to reach out to me regarding questions, feedback, criticism or quite literally *anything* else.
+Hey, I'm Johny. As an Information Systems graduate, I recently gained a strong passion for software engineering and more specifically creating visually appealing frontends. I also enjoy toying around with everything from design to backend.
 
-## My Tech Stack
+Learning is fun, so might as well do it as much as possible!
+
+Feel free to reach out to me regarding questions, feedback, criticism or quite literally *anything* else.
+
+## 🛠️ Tools I use
 <a href="https://reactjs.org/">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </a>
@@ -25,6 +28,9 @@ As an Information Systems graduate, I recently gained a strong passion for softw
 <a href="https://www.npmjs.com/">
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 </a>
+<a href="https://firebase.google.com/">
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
+</a>
 <a href="https://www.framer.com/motion/">
   <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" />
 </a>
@@ -32,7 +38,7 @@ As an Information Systems graduate, I recently gained a strong passion for softw
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
 </a>
 
-## Getting in touch
+## 🔗 Getting in touch
 <a href="https://mail.google.com/mail/u/0/?fs=1&to=yonniedooo@gmail.com&su=&body=&tf=cm">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
