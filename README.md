@@ -3,7 +3,7 @@
 🤝🏻 <a href="https://www.linkedin.com/in/johny-ha-63a596189/">LinkedIn profile</a>
 
 ## About Me 
-Hey, I'm Johny. As an Information Systems graduate, I recently gained a strong passion for software engineering and more specifically frontend development. I also enjoy toying around with everything from design to backend.
+Hey, I'm Johny, A UNSW CS student with a strong passion for software engineering and specifically frontend development. I also enjoy toying around with everything from design to backend.
 
 Learning is fun, so might as well do it as much as possible!
 
